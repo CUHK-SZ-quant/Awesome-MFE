@@ -1,9 +1,9 @@
 # Awesome-MFE
- 美国top MFE项目申请指南，不定期更新。
+ 港中深美国top MFE项目申请指南，不定期更新。
 
 
 
-### 选校安排
+## 选校安排
 
 基于 [Quantnet Ranking](https://quantnet.com/mfe-programs-rankings/), 录取者的背景、录取者的最终选择、项目近几年的去向，以及若干top MFE项目校友的综合评价，以下是个人美国top MFE项目的排名：
 
@@ -22,7 +22,7 @@
 
 
 
-### 修课计划
+## 修课计划
 
 总而言之，建议上的课程：
 
@@ -54,7 +54,7 @@ Credit to Songhao (MIT MFin)，仅供参考：
 
 
 
-### 建议阅读材料
+## 建议阅读材料
 
 - [Steven Shreve: Careers in Quantitative Finance](https://apply.mscf.cmu.edu/article/steve-shreve-industry-brief.pdf)
 
