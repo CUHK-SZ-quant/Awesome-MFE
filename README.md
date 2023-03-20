@@ -35,7 +35,7 @@
 
 Credit to Songhao (MIT MFin)，仅供参考：
 
-![](D:\OneDrive - CUHK-Shenzhen\CUHKSZ-QTIA\QTIA公开讲座\mfe_application_lecture\imgs\course.jpg)
+![](./imgs/course.jpg)
 
 
 
