@@ -35,9 +35,7 @@
 
 Credit to Songhao (MIT MFin)，仅供参考：
 
-![](./imgs/course.jpg)
-
-
+<img src="./imgs/course.jpg" width="650">
 
 一些有用的资料链接：
 
