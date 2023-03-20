@@ -7,7 +7,7 @@
 
 ## 选校安排
 
-基于 [Quantnet Ranking](https://quantnet.com/mfe-programs-rankings/), 录取者的背景、录取者的最终选择、项目近几年的去向，以及若干top MFE项目校友的综合评价，以下是个人美国top MFE项目的排名：
+基于 [Quantnet Ranking](https://quantnet.com/mfe-programs-rankings/)、录取者的背景、录取者的最终选择、项目近几年的去向，以及若干top MFE项目校友的综合评价，以下是个人美国top MFE项目的排名：
 
 - Tier 0: Princeton MFin
 - Tier 1: Baruch MFE, UCB MFE, CMU MSCF, Stanford MS\&E
@@ -41,7 +41,7 @@ Credit to Songhao (MIT MFin)，仅供参考：
 
 一些有用的资料链接：
 
-- [申研课程背景提升：UCB MFE Checklist](highlight：宏观经济，计量，C++，数值分析，偏微分方程)
+- [申研课程背景提升：UCB MFE Checklist](https://mfe.haas.berkeley.edu/admissions/prerequisites)
 - [量化水平提升：QTIA修课建议](https://mp.weixin.qq.com/s/QLJxe6mqB6g_tmdvmpFJyA)
 
 
