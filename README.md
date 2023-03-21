@@ -19,7 +19,7 @@
 - UK: Oxford MCF, LSE Finmath, IC RMFE
 - Singapore: NUS MFE, NUS MQF, NTU MFE
 - Europe: ETH MQF
-- HK: HKU MFin, HKUST Finmath, CUHK RMSC (Mphil)
+- HK: HKU MFin, HKUST Finmath, CUHK RMSC (MPhil)
 
 ### 申请定位
 
@@ -48,7 +48,44 @@ Credit to Songhao (MIT MFin)，仅供参考：
 - [申研课程背景提升：UCB MFE Checklist](https://mfe.haas.berkeley.edu/admissions/prerequisites)
 - [量化水平提升：QTIA 修课建议](https://mp.weixin.qq.com/s/QLJxe6mqB6g_tmdvmpFJyA)
 
-### 重要性排序
+## TOEFL & GRE
+
+**GRE 经验分享帖**
+
+- [Bradley Yang: GRE 162+170+4.5](https://www.zhihu.com/question/499380225/answer/2722956671)
+- [Ben Li: GRE 166+170+3.5](https://zhuanlan.zhihu.com/p/448738149)
+- [Eric Lan: GRE 164+170+3.5](https://zhuanlan.zhihu.com/p/386356094)
+
+
+## MFE面试准备
+
+以下列出部分2023 fall的MFE项目的面试内容（往后可能会调整）：
+- Princeton MFin：Quant Assessment + 两轮真人面试（行为+技术）
+- Baruch MFE：Quant Assessment + 两轮真人技术面
+- UCB MFE：Kira抽题录制（较固定） + 一轮真人技术面
+- CMU MSCF：提前给题目三次录制机会 + 一轮真人行为面
+- MIT MFin：录制两个video，一个自行上传一个随机Kira + 一轮Quant Assessment(水) + 一轮真人行为面
+- Columbia MFE：填完网申后跳出Kira面，三个行为面试题，一次准备+录制的机会
+- Cornell MFE：填完网申后海发Kira面，五个行为面题，一次机会，无准备时间
+- UChicago FM：三个video问题，时长要求不同，自行录制上传
+- NYU Finmath：一个5min的长video录制上传
+- NYU MFE：挑选一个指定问题并录制上传video，无其他面试
+
+
+### 行为面试
+
+#### **机器面试**
+面试形式常为：1. 录制video上传，2. Kira机器面试。录制比较简单基础，Kira面试类似TOEFL的Speaking部分，绝大多数考察基础的口语表达能力，只要不是讲的太差都不会有太大问题。总体的一些注意事项：
+1. 注意着装，看镜头，不要读稿
+2. 注意光线，环境安静，如果有后期空间可以自行调节亮度
+3. 容易紧张或卡壳可以降低语速，并搭配手势
+
+#### **真人面试**
+1. CMU MSCF：从以往的核准型面试调整为淘汰型面试，大规模发面试，但是只从中选择少部分人录取。面试题目固定，在整个评核中占比不高
+2. MIT MFin：真人行为面占据绝对比重，面试官评核方式主观不可控，面试淘汰率超过75%   
+
+
+### 技术面试
 
 以 Baruch MFE 和 UCB MFE 的技术面中考察的内容的难度和频率，对课程进行主观的分类，星越多表示技术面中越常见/重要：
 
@@ -65,13 +102,6 @@ Credit to Songhao (MIT MFin)，仅供参考：
 - 时间序列 ⭐⭐⭐：学过这门课可能被问，ARMA 原理
 - Economics ⭐⭐：遇到过问对美国市场的了解的，道指和标普
 
-## TOEFL & GRE
-
-**GRE 经验分享帖**
-
-- [Bradley Yang: GRE 162+170+4.5](https://www.zhihu.com/question/499380225/answer/2722956671)
-- [Ben Li: GRE 166+170+3.5](https://zhuanlan.zhihu.com/p/448738149)
-- [Eric Lan: GRE 164+170+3.5](https://zhuanlan.zhihu.com/p/386356094)
 
 ## 建议阅读材料
 
