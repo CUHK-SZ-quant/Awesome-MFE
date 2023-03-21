@@ -56,33 +56,46 @@ Credit to Songhao (MIT MFin)，仅供参考：
 - [Ben Li: GRE 166+170+3.5](https://zhuanlan.zhihu.com/p/448738149)
 - [Eric Lan: GRE 164+170+3.5](https://zhuanlan.zhihu.com/p/386356094)
 
+## MFE 面试准备
 
-## MFE面试准备
+以下列出部分 2023 fall 的 MFE 项目的面试内容（往后可能会调整）：
 
-以下列出部分2023 fall的MFE项目的面试内容（往后可能会调整）：
 - Princeton MFin：Quant Assessment + 两轮真人面试（行为+技术）
 - Baruch MFE：Quant Assessment + 两轮真人技术面
-- UCB MFE：Kira抽题录制（较固定） + 一轮真人技术面
+- UCB MFE：Kira 抽题录制（较固定） + 一轮真人技术面
 - CMU MSCF：提前给题目三次录制机会 + 一轮真人行为面
-- MIT MFin：录制两个video，一个自行上传一个随机Kira + 一轮Quant Assessment(水) + 一轮真人行为面
-- Columbia MFE：填完网申后跳出Kira面，三个行为面试题，一次准备+录制的机会
-- Cornell MFE：填完网申后海发Kira面，五个行为面题，一次机会，无准备时间
-- UChicago FM：三个video问题，时长要求不同，自行录制上传
-- NYU Finmath：一个5min的长video录制上传
-- NYU MFE：挑选一个指定问题并录制上传video，无其他面试
-
+- MIT MFin：录制两个 video，一个自行上传一个随机 Kira + 一轮 Quant Assessment (水) + 一轮真人行为面
+- Columbia MFE：填完网申后跳出 Kira 面，三个行为面试题，一次准备+录制的机会
+- Cornell MFE：填完网申后海发 Kira 面，五个行为面题，一次机会，无准备时间
+- UChicago FM：三个 video 问题，时长要求不同，自行录制上传
+- NYU Finmath：一个 5min 的长 video 录制上传
+- NYU MFE：挑选一个指定问题并录制上传 video，无其他面试
 
 ### 行为面试
 
 #### **机器面试**
-面试形式常为：1. 录制video上传，2. Kira机器面试。录制比较简单基础，Kira面试类似TOEFL的Speaking部分，绝大多数考察基础的口语表达能力，只要不是讲的太差都不会有太大问题。总体的一些注意事项：
+
+面试形式常为：1. 录制 video 上传，2. Kira 机器面试。录制比较简单基础，Kira 面试类似 TOEFL 的 Speaking 部分，绝大多数考察基础的口语表达能力，只要不是讲的太差都不会有太大问题。总体的一些注意事项：
+
 1. 注意着装，看镜头，不要读稿
 2. 注意光线，环境安静，如果有后期空间可以自行调节亮度
 3. 容易紧张或卡壳可以降低语速，并搭配手势
 
 #### **真人面试**
-1. CMU MSCF：从以往的核准型面试调整为淘汰型面试，大规模发面试，但是只从中选择少部分人录取。面试题目固定，在整个评核中占比不高
-2. MIT MFin：真人行为面占据绝对比重，面试官评核方式主观不可控，面试淘汰率超过75%   
+
+真人行为面包括 CMU，MIT，GaTech 等，其内容风格和占比权重各异：
+- CMU MSCF：淘汰型面试，大规模发面试，但是只选择少部分人录取。面试题目固定，在整个评核中占比不高
+- MIT MFin：真人行为面占据绝对比重，面试官评核方式主观不可控，面试淘汰率超过 75%
+
+此处重点介绍 MIT MFin 的面试准备 tip，部分内容 credit to Eddie (MIT MFin)：
+
+1. 面试最重要的是展现你的energy，你需要足够自信
+2. 注意房间的回音、收音、光线问题，本人就直接被面试官指出耳机有电流声（麻
+3. 开场时面试官会习惯性的开一些small talk，不要过于紧张，让自己看起来自然一点
+4. 对方大概率并不理解你简历里面的terminology，学会把专业性的东西用简单的语言表达
+5. 描述一个project时，内容具体外，使用总分总的逻辑表达，并和soft skills挂钩
+6. 注意面试的flow，适当的增添对话引导。能够逗笑面试官是一件很加分的事情
+
 
 
 ### 技术面试
@@ -95,14 +108,15 @@ Credit to Songhao (MIT MFin)，仅供参考：
 - 期权 ⭐⭐⭐⭐⭐：BS 公式，Dividend 影响，Greeks，Convexity
 - ODE ⭐⭐⭐⭐⭐: 一元二次齐次 ODE
 - 编程 ⭐⭐⭐⭐：Python，Pandas，C++
+- 回归分析 ⭐⭐⭐⭐：OLS回归，模型假设，异方差性
 - Brain Teaser ⭐⭐⭐⭐：参考绿皮书和黄皮书，通常和概率一起考察
 - PDE ⭐⭐⭐：如果没学过一般不会问
 - 数值分析 ⭐⭐⭐：往年主要问 Newton method
 - 机器学习 ⭐⭐⭐：有机器学习背景可能被问
-- 时间序列 ⭐⭐⭐：学过这门课可能被问，ARMA 原理
+- 时间序列 ⭐⭐⭐：学过这门课可能被问，如 ARMA 公式和原理
 - Economics ⭐⭐：遇到过问对美国市场的了解的，道指和标普
-
 
 ## 建议阅读材料
 
 - [Steven Shreve: Careers in Quantitative Finance](https://apply.mscf.cmu.edu/article/steve-shreve-industry-brief.pdf)
+- [Emanuel Derman: My Life as a Quant](https://download.e-bookshelf.de/download/0000/5845/30/L-G-0000584530-0002384412.pdf)
