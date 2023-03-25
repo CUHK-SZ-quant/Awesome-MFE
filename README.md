@@ -10,16 +10,16 @@
 
 - Tier 0: Princeton MFin
 - Tier 1: Baruch MFE, UCB MFE, CMU MSCF, Stanford MS\&E
-- Tier 1.5: Columbia MFE, MIT MFin, Yale AM, NYU Finmath
-- Tier 2: Columbia MAFN, Cornell MFE, UChicago FM
-- Tier 3: NYU MFE, UCLA MFE, GaTech QCF
+- Tier 1.5: Columbia MFE, NYU Finmath, MIT MFin
+- Tier 2: Columbia MAFN, Cornell MFE
+- Tier 3: UChicago FM, NYU MFE, UCLA MFE, GaTech QCF
 
 英国、新加坡、欧洲、香港等的一些热门项目：
 
 - UK: Oxford MCF, LSE Finmath, IC RMFE
 - Singapore: NUS MFE, NUS MQF, NTU MFE
 - Europe: ETH MQF
-- HK: HKU MFin, HKUST Finmath, CUHK RMSC (MPhil)
+- HK: HKU MFin, HKUST Finmath, CUHK RMDA
 
 ### 申请定位
 
