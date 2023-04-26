@@ -8,8 +8,8 @@
 
 基于 [Quantnet Ranking](https://quantnet.com/mfe-programs-rankings/)、录取者的背景、录取者的最终选择、项目近几年的去向，以及若干 top MFE 项目校友的综合评价，以下是个人美国 top MFE 项目的排名：
 
-- Tier 0: Princeton MFin
-- Tier 1: Baruch MFE, UCB MFE, CMU MSCF, Stanford MS\&E
+- Tier 0: Baruch MFE, Princeton MFin
+- Tier 1: UCB MFE, CMU MSCF, Stanford MS\&E
 - Tier 1.5: Columbia MFE, NYU Finmath, MIT MFin
 - Tier 2: Columbia MAFN, Cornell MFE
 - Tier 3: UChicago FM, NYU MFE, UCLA MFE, GaTech QCF
@@ -115,6 +115,24 @@ Credit to Songhao (MIT MFin)，仅供参考：
 - 机器学习 ⭐⭐⭐：有机器学习背景可能被问
 - 时间序列 ⭐⭐⭐：学过这门课可能被问，如 ARMA 公式和原理
 - Economics ⭐⭐：遇到过问对美国市场的了解的，道指和标普
+
+**UCB MFE**
+
+1. **校友面试**：UCB MFE的技术面试整体比较简单。面试官会根据你的背景寻找比较匹配的校友。比如如果你的ML经验比较多，就会偏向找机器学习工程师的校友面试你；如果你的背景是纯金融，那么他们也会找毕业后没做quant的校友，比如去KKR的校友面试你。
+2. **面经和题目**：整体而言网上面经的参考价值不大，不同背景的问题从衍生品到机器学习到甚至fama-french factor model都可能问到。可以预料的是一些基础的线代、积分、衍生品的题目，只要都复习到了问题就不大，但是也有例外情况，比如本人就被考了一道算法题，并且给了三次hint都没有答出来…… 大概是从一堆0,1矩阵中寻找最大固定尺寸的子矩阵使得包含最多的1的方法，使用recursion求解。不过最后面试还是过了，因此不用太过担心这些比较偏门的题目。
+3. **面试口音**：UCB很多的面试官是印度人，这就导致整体对话可能会进行的比较艰难，因此需要提前做好心理准备。本人当时就到了甚至需要在聊天框打出来说的是什么的地步了……
+
+**Baruch MFE**
+
+- **QBA**：难度不高，算算积分，期望，矩阵一类的，8个题目对个6个以上就差不多可以了。
+- **Round 1**：第一轮不同的面试官的题目差距比较大。如果是Andrew，偏向问一些课程内的东西，比如时间序列、ODE等等；然而如果是Rados，就比较难受。本人的一轮是Rados面试，就是baruch著名黄皮书的编著人之一的俄罗斯人。面试一开始直接发了个PDF，里面8个题，涉及线代、option arbitrage、回归分析、二项分布等等，20分钟时间，能做的越多越好。很多时候不用算出具体结果，对方觉得你的思路对就move on了，题目整体还是比较简单的，我当时做了7/8，对方比较满意就直接让我过了。
+- **Round 2**：著名的Dan Stefanica的压力面。综合我查到的各种面经，我的面试体验，以及朋友的面试体验，有如下几点建议：
+  1. **建议尽早投递**。我是r4面的，题目明显比其他r1，r2的同学面试难很多。前两轮投递的话Dan至少还会问一些概念性的问题，比如matrix trace/determinant等等，最后一轮就是直接上强度。我最后有两个题都没有完整做出来，对心态是很大的考验。因此准备好了就尽早的投递。round 3和round 4的难度会明显提升，round 2的面试时间会和UCB，MIT，CMU等撞车，因此round 1就是最佳选择。
+  2. **说清楚思路**。任何任何思路，想到就说，对错无所谓。如果Dan看到你的思路不对，可能会move on，也可能会给你一些hint。哪怕是最简单的，比如考虑一种特殊情况下的分类讨论，都会比什么都不说好。
+  3. **Think fast, move fast**。 面试时间只有30min，Dan不希望你坐在那里一直思考，他想过尽可能多的题目。因此，你需要给出非常快的feedback，并且根据他的hint及时的调整你的做法。虽说多数人反应Dan的压力面非常恐怖，但本人的体验其实还好，对方的语速快，但其实也是在比较正常的level，并且发音也不会出现听不清的情况。
+  4. **不要over prepared**。有很多危言耸听的面试准备帖，说要把黄皮绿皮书全部过个三四遍，A primer for financial engineering也刷两遍，滚瓜烂熟才能去面Baruch，其实完全不是，我个人感觉只要你学校的MAT2040, MAT1001, MAT1002, STA2001, STA2002, MAT2002等等这些课都是A，并且做了一定的slide复习，刷过一定量的题目，其实也就差不多了。
+
+
 
 ## 建议阅读材料
 
