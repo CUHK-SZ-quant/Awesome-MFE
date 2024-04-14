@@ -4,6 +4,8 @@
 
 不定期更新，点击右上角 star 获取更新信息
 
+申请有很多不确定性，祝大家申请顺利！
+
 ## 选校安排
 
 基于 [Quantnet Ranking](https://quantnet.com/mfe-programs-rankings/)、录取者的背景、录取者的最终选择、项目近几年的去向，以及若干 top MFE 项目校友的综合评价，以下是个人美国 top MFE 项目的排名：
@@ -11,8 +13,8 @@
 - Tier 0: Baruch MFE, Princeton MFin
 - Tier 1: UCB MFE, CMU MSCF, Stanford MS\&E
 - Tier 1.5: Columbia MFE, NYU Finmath, MIT MFin
-- Tier 2: Columbia MAFN, Cornell MFE
-- Tier 3: UChicago FM, NYU MFE, UCLA MFE, GaTech QCF
+- Tier 2: Columbia MAFN, Cornell MFE, UChicago FM
+- Tier 3: NYU MFE, UCLA MFE, GaTech QCF
 
 英国、新加坡、欧洲、香港等的一些热门项目：
 
@@ -21,25 +23,42 @@
 - Europe: ETH MQF
 - HK: HKU MFin, HKUST Finmath, CUHK RMDA
 
-### 申请定位
+### 申请定位以及信息搜集
 
-1. 可以参考各大 MFE 项目公布的录取学生的 resume book:
+1. 项目官网：
+  * pre-requisite, admission statistics, career report...
+  * 最官方最整全
+  * 从官网描述中感受项目风格
+
+2. 可以参考各大 MFE 项目公布的录取学生的 resume book:
 
 - [Columbia MAFN](resume_book/Columbia-MAFN/Columbia-finmath-2018.pdf)
 - [NYU Courant FinMath](resume_book/NYU-Courant)
 - [Princeton MFin](resume_book/Princeton)
 - [UCB MFE](resume_book/UCB)
 
-2. Quantnet tracker: https://quantnet.com/tracker - 全球的MFE application information.
+3. 学长学姐交流 - 同校学长学姐 & 该项目学长学姐 ｜ 领英，小红书
+4. 一亩三分地 - 面经，项目评价，美国就业市场评价等
+5. 小红书 
+  * 信息很新,在准备Kira的时候可以先等等别人post题目
+  * 较杂较碎片，小心中介制造焦虑
+6. [Quantnet tracker](https://quantnet.com/tracker): - 全球的MFE application information.
+
+## 申请时候的信息管理
+
+* Notion - Information management
+      * Easy to manage, update and share
+      * [学长学姐整理好的模版](https://www.notion.so/Graduate-Application-Guide-f4cc3f5255c64b4a86d76460f93cfebd)
+
 
 ## 修课计划
 
-总而言之，建议上的课程：
-
-- 数学：微积分\*2，线代，最优化，离散数学，概率论，常微分，偏微分，数值分析，随机微分等
-- 统计：概率统计\*2，随机过程，时间序列，计量，回归分析，机器学习，深度学习等
+建议上的课程：
+- [量化水平提升：QTIA 修课建议](https://mp.weixin.qq.com/s/QLJxe6mqB6g_tmdvmpFJyA) （建议重点参考）
+- 数学：微积分\*2，线代，最优化，概率论，常微分，偏微分，数学分析，数值分析/数值方法，随机微分等
+- 统计：概率统计\*2，随机过程，随机模拟，时间序列，回归分析，统计推断，机器学习，深度学习等
 - CS：Python，C++，数据结构，数据库等
-- 金融经济：财务管理，微经，宏经，投资组合管理，期权期货，固定收益等
+- 金融经济：财务管理，微经，投资组合管理，期权期货，固定收益等
 
 Credit to Songhao (MIT MFin)，仅供参考：
 
@@ -48,9 +67,11 @@ Credit to Songhao (MIT MFin)，仅供参考：
 一些有用的资料链接：
 
 - [申研课程背景提升：UCB MFE Checklist](https://mfe.haas.berkeley.edu/admissions/prerequisites)
-- [量化水平提升：QTIA 修课建议](https://mp.weixin.qq.com/s/QLJxe6mqB6g_tmdvmpFJyA)
 
 ## TOEFL & GRE
+
+* TOEFL: 105+【口语高会有加成】
+* GRE：155+ 170+ 3.5+ 【尽量早考】 
 
 **GRE 经验分享帖**
 
@@ -58,6 +79,35 @@ Credit to Songhao (MIT MFin)，仅供参考：
 - [Ben Li: GRE 166+170+3.5](https://zhuanlan.zhihu.com/p/448738149)
 - [Eric Lan: GRE 164+170+3.5](https://zhuanlan.zhihu.com/p/386356094)
 
+**托福口语tips分享三天速成23-27**
+
+ - 保证语音语调的起伏和轻重音，尽量避免为了追求速度蒙头狂说
+ - 流畅度比语法更重要，避免卡顿和突然说中文
+
+## 推荐信：
+
+  * 申请中的重要程度：对于MFE而言一般
+  * 基本配置：2封学术（课程）推+1封实习导师推
+  * 时间：建议大三暑假开始要，部分教授会有推荐信人数限制
+  * 怎样要推荐信：
+    * 上课积极发言/课后问问题给老师留下印象; 该课A/A-
+    * 尽量挑有做project的课
+    * 要推荐信前小心黑推
+  * 列个表格方便及时更进
+    
+##  实习&科研
+  * 实习
+    * 国内私募：体量大小在申请委员会看来没区别，工作内容>公司
+    * 外资：外资实习是一个有竞争力的点，即使岗位与quant不那么相关
+        * 如何找实习？
+          * 海投 | 实习僧，boss直聘，各大公司公众号，QTIA公众号，HFA公众号
+          * 买方找实习成长路线：编程比赛/科研/小私募实习/卖方券商研报实习 -> 中等体量私募实习 -> 百亿私募实习
+
+  *科研
+      * 方向：机器学习/深度学习/运筹优化等
+      * 主要作用：体现research和coding的能力
+
+    
 ## MFE 面试准备
 
 以下列出部分 2024 fall 的 MFE 项目的面试内容（往后可能会调整）：
@@ -117,10 +167,9 @@ Credit to Songhao (MIT MFin)，仅供参考：
 - 机器学习 ⭐⭐⭐：有机器学习背景可能被问
 - 时间序列 ⭐⭐⭐：学过这门课可能被问，如 ARMA 公式和原理
 - Economics ⭐⭐：遇到过问对美国市场的了解的，道指和标普
-
 - Live coding
 
-**我们认为技术面考察的真正内容**：
+**我们认为技术面考察的内容**：
 
 * Reactions to one problem
   * Thinking patterns
@@ -133,7 +182,7 @@ Credit to Songhao (MIT MFin)，仅供参考：
   * Tell them all your thinkings or even guesses about this problem and they will guide you.
 
 * 记得写follow-up thank-you letter
- 
+
 #### UCB MFE
 
 1. **校友面试**：UCB MFE的技术面试整体比较简单。面试官会根据你的背景寻找比较匹配的校友。比如如果你的ML经验比较多，就会偏向找机器学习工程师的校友面试你；如果你的背景是纯金融，那么他们也会找毕业后没做quant的校友，比如去KKR的校友面试你。
@@ -154,17 +203,71 @@ Credit to Songhao (MIT MFin)，仅供参考：
 2. **第一轮**：
 
   * 第一轮不同的面试官的风格比较大。
-  * 
+  * 共同点：
+    * 教授们人都很好，答不上来会一步一步带着你做题
+    * 会在做题过程中注重基本概念的考察
+    * 基本配置：(编程题) + 概率/数学题 + 期权题 + Q\&A
+    * 结束的时候可以问是否会recommend 你
+  * 建议复习方法：
+    * 绿皮书+黄皮书
+    * Calculus I \& II, Linear Algebra, Statistics等的过往课件 （因人而异）
+    * 该教授在网上的面经和他写的书
+  * 在第一轮第二轮申请批次中，你会提前知道面你的教授是谁；在第三轮第四轮申请批次中，你不会提前知道面你的教授
+  * 面完之后不要在小红书上po面试的问题
 
- 第一轮不同的面试官的题目差距比较大。如果是Andrew，偏向问一些课程内的东西，比如时间序列、ODE等等；然而如果是Rados，就比较难受。本人的一轮是Rados面试，就是baruch著名黄皮书的编著人之一的俄罗斯人。面试一开始直接发了个PDF，里面8个题，涉及线代、option arbitrage、回归分析、二项分布等等，20分钟时间，能做的越多越好。很多时候不用算出具体结果，对方觉得你的思路对就move on了，题目整体还是比较简单的，我当时做了7/8，对方比较满意就直接让我过了。
+3. **第二轮**:
+
+  * 基本配置：c++概念题+概率/积分/线代/脑筋急转弯+（期权题）+ Q\&A
+  * 建议复习方法：
+    * 绿皮书+黄皮书 (黄皮的边角料注释也不要放过)
+    * A Primer for the Mathematics of Financial Engineering (basic concept about Calculus)  \\ \& A Linear Algebra Primer for Financial Engineering
+      * 基础概念和定理
+      * 例子
+    * Dan面经
+  * Tips:
+    * **建议尽早投递**。r3r4面题目明显比其他r1，r2的同学面试难很多。因此准备好了就尽早的投递。
+    * **说清楚思路**。任何任何思路，想到就说，对错无所谓。如果Dan看到你的思路不对，可能会move on，也可能会给你一些hint。哪怕是最简单的，比如考虑一种特殊情况下的分类讨论，都会比什么都不说好。
+    * 个人感觉Dan面试的时候比较亲切，语速还行，不用太害怕
+    * **Think fast, move fast**。 面试时间只有30min，Dan不希望你坐在那里一直思考，他想过尽可能多的题目。因此，你需要给出非常快的feedback，并且根据他的hint及时的调整你的做法。
+    * Dan喜欢把一些我们默认的“常识”问到底 - 准备的时候可以多问自己为什么
+    * 提前准备Q&A问题 - 不要问他能不能被录取
 
 
-- **Round 2**：著名的Dan Stefanica的压力面。综合我查到的各种面经，我的面试体验，以及朋友的面试体验，有如下几点建议：
-  1. **建议尽早投递**。我是r4面的，题目明显比其他r1，r2的同学面试难很多。前两轮投递的话Dan至少还会问一些概念性的问题，比如matrix trace/determinant等等，最后一轮就是直接上强度。我最后有两个题都没有完整做出来，对心态是很大的考验。因此准备好了就尽早的投递。round 3和round 4的难度会明显提升，round 2的面试时间会和UCB，MIT，CMU等撞车，因此round 1就是最佳选择。
-  2. **说清楚思路**。任何任何思路，想到就说，对错无所谓。如果Dan看到你的思路不对，可能会move on，也可能会给你一些hint。哪怕是最简单的，比如考虑一种特殊情况下的分类讨论，都会比什么都不说好。
-  3. **Think fast, move fast**。 面试时间只有30min，Dan不希望你坐在那里一直思考，他想过尽可能多的题目。因此，你需要给出非常快的feedback，并且根据他的hint及时的调整你的做法。虽说多数人反应Dan的压力面非常恐怖，但本人的体验其实还好，对方的语速快，但其实也是在比较正常的level，并且发音也不会出现听不清的情况。
 
 #### Princeton MFE
+
+1. Mandatory Math Assessment - 难度一般
+Brain teaser, Linear Algebra, Ito’s Lemma, Calculus, probability & statistics
+
+2. 第一轮：职业发展中心负责人行为面
+  * 主要考察的内容：
+    * 个人背景
+      * why program? why quant finance?
+      * introduce your internship at xxx company
+    * 面对压力的临场反应
+    * 语言表达能力
+      * 将自己的各类经历灵活串联起来，切题回答
+      * 分点回答，举例时说清楚起因经过结果
+    * 偶尔会要求你介绍简历文书中出现的专业名词，小红书上有人反馈被问了 brain teaser & 数学题
+  * 可以提前准备的内容
+    * 文书，简历中的所有细节
+    * 个人突出的品质/特点，优缺点
+    * ethical dilemmas
+    * 参考小红书，一亩三分地上的面经
+  * 面试过程中最重要的
+    * 自信的精神面貌
+    * 迅速作出应答
+    * 保持微笑 & 适当的手势
+
+3. 第二轮：校友技术面
+  * 因人而异，有的校友喜欢出题做，有的校友喜欢深挖简历。可以提前去领英了解校友的工作经历，作出针对性准备
+  * 熟悉简历中每一项经历的技术细节
+  * 准备好接受面试官对简历上经历的质疑
+    * 回测方式是否严谨有效？
+    * 是否满足模型假设？
+  准备好被问到简历中提到的技术概念
+    * what is xxx Model?
+
 
 ## 职业发展道路了解
 
