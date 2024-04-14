@@ -46,7 +46,7 @@
 
 ## 申请时候的信息管理
 
-* Notion - Information management
+* [Notion](https://www.notion.so/) - Information management
   * Easy to manage, update and share
   * [学长学姐整理好的模版](https://www.notion.so/Graduate-Application-Guide-f4cc3f5255c64b4a86d76460f93cfebd)
 
