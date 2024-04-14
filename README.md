@@ -6,7 +6,7 @@
 
 申请有很多不确定性，祝大家申请顺利！
 
-## 选校安排
+## MFE项目
 
 基于 [Quantnet Ranking](https://quantnet.com/mfe-programs-rankings/)、录取者的背景、录取者的最终选择、项目近几年的去向，以及若干 top MFE 项目校友的综合评价，以下是个人美国 top MFE 项目的排名：
 
@@ -23,7 +23,7 @@
 - Europe: ETH MQF
 - HK: HKU MFin, HKUST Finmath, CUHK RMDA
 
-### 申请定位以及信息搜集
+## 申请定位以及信息搜集
 
 1. 项目官网：
   * pre-requisite, admission statistics, career report...
@@ -47,8 +47,8 @@
 ## 申请时候的信息管理
 
 * Notion - Information management
-      * Easy to manage, update and share
-      * [学长学姐整理好的模版](https://www.notion.so/Graduate-Application-Guide-f4cc3f5255c64b4a86d76460f93cfebd)
+  * Easy to manage, update and share
+  * [学长学姐整理好的模版](https://www.notion.so/Graduate-Application-Guide-f4cc3f5255c64b4a86d76460f93cfebd)
 
 
 ## 修课计划
