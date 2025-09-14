@@ -8,20 +8,21 @@
 
 ## MFE项目
 
-基于 [Quantnet Ranking](https://quantnet.com/mfe-programs-rankings/)、录取者的背景、录取者的最终选择、项目近几年的去向，以及若干 top MFE 项目校友的综合评价，以下是个人美国 top MFE 项目的排名：
+基于 [Quantnet Ranking](https://quantnet.com/mfe-programs-rankings/)、录取者的背景、录取者的最终选择、项目近几年的去向，以及若干 top MFE 项目校友的综合评价，以下是个人美国 top MFE 项目的排名（2025）：
 
 - Tier 0: Baruch MFE, Princeton MFin
-- Tier 1: UCB MFE, CMU MSCF, Stanford MS\&E
-- Tier 1.5: Columbia MFE, NYU Finmath, MIT MFin
-- Tier 2: Columbia MAFN, Cornell MFE, UChicago FM
-- Tier 3: NYU MFE, UCLA MFE, GaTech QCF
+- Tier 1: CMU MSCF
+- Tier 2: UCB MFE, Stanford MSE, MIT MFin
+- Tier 2.5: Uchicago FM
+- Tier 3: GaTech QCF, Columbia MAFN, Columbia MFE, Cornell MFE
+- Tier 4: NYU MFE, NYU Finmath, UCLA MFE
 
 英国、新加坡、欧洲、香港等的一些热门项目：
 
 - UK: Oxford MCF, LSE Finmath, IC RMFE
 - Singapore: NUS MFE, NUS MQF, NTU MFE
 - Europe: ETH MQF
-- HK: HKU MFin, HKUST Finmath, CUHK RMDA
+- HK: HKUST Finmath, CUHK SEEM
 
 ## 申请定位以及信息搜集
 
@@ -84,7 +85,7 @@ Credit to Songhao (MIT MFin)，仅供参考：
  - 保证语音语调的起伏和轻重音，尽量避免为了追求速度蒙头狂说
  - 流畅度比语法更重要，避免卡顿和突然说中文
 
-## 推荐信：
+## 推荐信
 
   * 申请中的重要程度：对于MFE而言一般
   * 基本配置：2封学术（课程）推+1封实习导师推
@@ -107,7 +108,7 @@ Credit to Songhao (MIT MFin)，仅供参考：
       * 方向：机器学习/深度学习/运筹优化等
       * 主要作用：体现research和coding的能力
 
-    
+
 ## MFE 面试准备
 
 以下列出部分 2024 fall 的 MFE 项目的面试内容（往后可能会调整）：
@@ -118,12 +119,13 @@ Credit to Songhao (MIT MFin)，仅供参考：
 - CMU MSCF：提前给题目三次录制机会 + 一轮真人行为面
 - MIT MFin：录制两个 video，一个自行上传一个随机 Kira + 一轮 Quant Assessment (水) + 一轮真人行为面
 - Columbia MFE：填完网申后跳出 Kira 面，三个行为面试题，一次准备+录制的机会
+- Columbia MSFE: 一轮真人经历面，由项目主任Harry Mamaysky、在读PhD或者同项目校友进行
 - Cornell MFE：填完网申后海发 Kira 面，五个行为面题，一次机会，无准备时间
 - UChicago FM：三个 video 问题，时长要求不同，自行录制上传
 - NYU Finmath：一个 5min 的长 video 录制上传
 - NYU MFE：挑选一个指定问题并录制上传 video，无其他面试
 
-补充 2025 fall 的 Columbia Business School Master of Financial Economics（后面被称为CBS MSFE）的面试内容：一轮真人经历面，由项目主任Harry Mamaysky、在读PhD或者同项目校友进行
+
 
 ### 行为面试
 
@@ -164,6 +166,8 @@ B. CBS MSFE（由CBS MSFE Class of ‘27 4位校友提供）：
 3. 如果是博士面的话主要是讲述本科期间上了啥课，讲了什么内容。如果上过博士课程可以专门准备一下，是你推销自己的好机会
 4. 实习经历丰富的话面试官会对着简历一段段经历考察细节，和国内量化私募实习面试类似
 5. 25 fall CUHKsz是这个项目最大的生源校之一（4/53），同届背景为陆本（清北复交南、昆杜上纽和两财一贸）约15人，港本（CUHK和HKU）约5人，英本1-2人，美本（如Harvard、UCB、UCLA、UMich、NYU、UCSD）约25人，以及具备工作经验的申请者约5人。
+
+
 
 ### 技术面试
 
@@ -236,8 +240,6 @@ B. CBS MSFE（由CBS MSFE Class of ‘27 4位校友提供）：
   * 建议复习方法：
     * 绿皮书+黄皮书 (黄皮的边角料注释也不要放过)
     * A Primer for the Mathematics of Financial Engineering (basic concept about Calculus)  \\ \& A Linear Algebra Primer for Financial Engineering
-      * 基础概念和定理
-      * 例子
     * Dan面经
   * Tips:
     * **建议尽早投递**。r3r4面题目明显比其他r1，r2的同学面试难很多。因此准备好了就尽早的投递。
@@ -277,11 +279,10 @@ Brain teaser, Linear Algebra, Ito’s Lemma, Calculus, probability & statistics
 3. 第二轮：校友技术面
   * 因人而异，有的校友喜欢出题做，有的校友喜欢深挖简历。可以提前去领英了解校友的工作经历，作出针对性准备
   * 熟悉简历中每一项经历的技术细节
-  * 准备好接受面试官对简历上经历的质疑
+  * 准备好接受面试官对简历上经历的质疑，准备好被问到简历中提到的技术概念
     * 回测方式是否严谨有效？
     * 是否满足模型假设？
-  准备好被问到简历中提到的技术概念
-    * what is xxx Model?
+  * what is xxx Model?
 
 
 ## 职业发展道路了解
@@ -290,4 +291,3 @@ Brain teaser, Linear Algebra, Ito’s Lemma, Calculus, probability & statistics
 - [Emanuel Derman: My Life as a Quant](https://download.e-bookshelf.de/download/0000/5845/30/L-G-0000584530-0002384412.pdf)
 - [QuantNet Threads: My Life as a Junior Quant](https://quantnet.com/threads/im-a-junior-buyside-quant-trader-ama.53762/)
 - [QuantNet Threads: My Life as a Senior Quant](https://quantnet.com/threads/im-a-senior-buy-side-quant-researcher-ama.53587/page-2)
-- [Buy-Side Quant Job Advice](https://www.reddit.com/r/quant/comments/1b2tnsi/buyside_quant_job_advice_by_giuseppe_paleologo/)
